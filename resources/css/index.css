@@ -1,0 +1,84 @@
+html, body {
+    background-color: beige;
+}
+
+.arts {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(../images/pattern.jpeg);
+}
+
+.image_box {
+    width: 125px;
+    border: 4px solid black;
+}
+
+.brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    position: relative;
+    bottom: 50px;
+}
+.hacksaw {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+.hacksaw .brush {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+.frameP {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+.frameP .costF {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.finnish {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+.finnish .finnishC {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.adam {
+    font-family: Helvetica;
+    font-size: 20px;
+    text-align: center;
+}
+
+.adam .create{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: Blue;
+}
